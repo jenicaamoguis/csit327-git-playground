@@ -1,0 +1,4 @@
+- 3rd Year / G1
+- Java
+- Use `git status` often
+- @jenicaamoguis
